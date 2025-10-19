@@ -1,0 +1,49 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.DS_Store
+*.env
+*.db
+*.sqlite3
+
+# ---- Virtual Environment ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Streamlit ----
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# ---- Output Files ----
+outputs/
+vector_store/
+data/
+*.csv
+*.nc
+*.png
+
+# ---- System / IDE ----
+.idea/
+.vscode/
+*.iml
+
+# ---- OS files ----
+Thumbs.db
+.DS_Store
+
+# ---- Hugging Face / API Keys ----
+.env
+*.env
+token.json
+
+# ---- Cached / Temp ----
+*.bak
+*.tmp
+.cache/
+__cache__/

@@ -1,0 +1,13 @@
+numpy
+pandas
+xarray
+netCDF4
+chromadb
+faiss-cpu
+sentence-transformers
+langchain
+matplotlib
+plotly
+flask
+python-dotenv
+google-generativeai
